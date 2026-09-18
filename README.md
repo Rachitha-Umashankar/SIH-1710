@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:18/09/2026
+## Register Number:212225220078
+## Name: Rachitha U
 ## Problem Title
 SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
 ## Problem Description
@@ -11,15 +11,29 @@ Background: Railway stations are complex environments with numerous facilities a
 Ministry of Railway
 
 ## Idea
-
+The proposed idea is to develop a smart, user-friendly navigation system for railway stations that helps passengers easily locate facilities such as platforms, ticket counters, restrooms, and waiting areas. This system will include a mobile application with interactive 3D maps and step-by-step directions, along with digital kiosks placed across stations for quick access. It will provide real-time updates on platform changes and facility locations, ensuring accuracy and efficiency. To make the solution inclusive, features like voice-guided navigation for visually impaired users and wheelchair-friendly routes will be integrated. By combining real-time data, intuitive design, and accessibility features, the system aims to reduce confusion, save time, and significantly improve the overall passenger experience in railway stations.
 
 ## Proposed Solution / Architecture Diagram
 
+<img width="800" height="566" alt="image" src="https://github.com/user-attachments/assets/fb947133-cb5b-42a4-8fdd-a01e240635df" />
 
 ## Use Cases
-
+<img width="929" height="817" alt="image" src="https://github.com/user-attachments/assets/b11c5b3a-e1ca-4355-bf94-87534a7b7450" />
 
 ## Technology Stack
+Frontend: Flutter / React
+Backend: Node.js / Python
+Database: MongoDB / Firebase
+Maps: Google Maps / Mapbox
+Cloud: AWS / Firebase
+Extras: AI, Voice Navigation, Real-time APIs
 
 
 ## Dependencies
+React / Flutter,
+Node.js,
+MongoDB,
+Firebase,
+Google Maps API,
+Socket.io, 
+TTS APIs
